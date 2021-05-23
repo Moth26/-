@@ -14,3 +14,9 @@ img{
     height:200px;
     width:200px;
 }
+a{
+    border:2px solid;
+    background-color:white;
+    color:black;
+    
+}
